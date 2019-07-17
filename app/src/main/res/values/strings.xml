@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="my_profile">My PROFILE</string>
+    <string name="Web1Activity">About ALC</string>
+
+    <string name="welcome_to_alc_4_0">Welcome to Alc 4.0</string>
+    <string name="track_android">Track:     Android</string>
+    <string name="Country_kenya">Country:   Kenya</string>
+    <string name="name">David Kaleng</string>
+    <string name="davidkalenggmail_com">Email:  davidkaleng@gmail.com</string>
+    <string name="_245798173096">Phone number:  +254798173096</string>
+    <string name="davidkaleng">Slack Username:  @davidkaleng</string>
+
+    <string name="todo">TODO</string>
+
+
+</resources>
